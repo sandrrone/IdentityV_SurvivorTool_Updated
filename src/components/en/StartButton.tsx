@@ -5,7 +5,7 @@ import styles from "components/StartButton.module.scss";
 import stylesEn from "components/en/StartButton.module.scss";
 
 const patrollerDefaultTime = 30;
-const warpDefaultTime = 40;
+const warpDefaultTime = 50;
 const blinkDefaultTime = 60;
 const ultraLongDefaultTime = 30;
 const bloodyQueenDefaultTime = 8;
